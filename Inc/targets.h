@@ -48,7 +48,7 @@
 // #define EPROPELLED_G431_CAN
 // #define EPROPELLED_4in1_G431_CAN
 
-#define QUADDRIVE_G071
+//#define QUADDRIVE_G071
 
 #endif
 
